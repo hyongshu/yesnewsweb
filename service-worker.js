@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yesnewsweb/precache-manifest.7ddb46c10eb1e7373568da55ec983870.js"
+  "/yesnewsweb/precache-manifest.4a37041e299351ab385f0ad51fedc294.js"
 );
 
 self.addEventListener('message', (event) => {
