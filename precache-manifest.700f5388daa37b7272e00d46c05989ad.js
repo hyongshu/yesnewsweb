@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81267cbb4e9d4f46fff6d4d66819699c",
+    "revision": "f973cc674b92c11103ad21a49998544c",
     "url": "/yesnewsweb/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yesnewsweb/static/css/2.13034bdc.chunk.css"
   },
   {
-    "revision": "a96c4f2575fb858ef99f",
+    "revision": "4060e82bbf4dbf6152e1",
     "url": "/yesnewsweb/static/css/main.4f29362c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yesnewsweb/static/js/2.147dcc1b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a96c4f2575fb858ef99f",
-    "url": "/yesnewsweb/static/js/main.54cfa792.chunk.js"
+    "revision": "4060e82bbf4dbf6152e1",
+    "url": "/yesnewsweb/static/js/main.ed6fb865.chunk.js"
   },
   {
     "revision": "8765afbd9930d037df4b",
