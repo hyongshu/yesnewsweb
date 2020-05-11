@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/yesnewsweb/static/css/main.4f29362c.chunk.css",
-    "main.js": "/yesnewsweb/static/js/main.c58586de.chunk.js",
-    "main.js.map": "/yesnewsweb/static/js/main.c58586de.chunk.js.map",
+    "main.js": "/yesnewsweb/static/js/main.e6912451.chunk.js",
+    "main.js.map": "/yesnewsweb/static/js/main.e6912451.chunk.js.map",
     "runtime-main.js": "/yesnewsweb/static/js/runtime-main.4146c0e3.js",
     "runtime-main.js.map": "/yesnewsweb/static/js/runtime-main.4146c0e3.js.map",
     "static/css/2.13034bdc.chunk.css": "/yesnewsweb/static/css/2.13034bdc.chunk.css",
     "static/js/2.19c57a9a.chunk.js": "/yesnewsweb/static/js/2.19c57a9a.chunk.js",
     "static/js/2.19c57a9a.chunk.js.map": "/yesnewsweb/static/js/2.19c57a9a.chunk.js.map",
     "index.html": "/yesnewsweb/index.html",
-    "precache-manifest.92ed76f8e9de0722c16c8d7aff86afcf.js": "/yesnewsweb/precache-manifest.92ed76f8e9de0722c16c8d7aff86afcf.js",
+    "precache-manifest.4d6c63febdbebab9a5be0993ec3009b3.js": "/yesnewsweb/precache-manifest.4d6c63febdbebab9a5be0993ec3009b3.js",
     "service-worker.js": "/yesnewsweb/service-worker.js",
     "static/css/2.13034bdc.chunk.css.map": "/yesnewsweb/static/css/2.13034bdc.chunk.css.map",
     "static/css/main.4f29362c.chunk.css.map": "/yesnewsweb/static/css/main.4f29362c.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.13034bdc.chunk.css",
     "static/js/2.19c57a9a.chunk.js",
     "static/css/main.4f29362c.chunk.css",
-    "static/js/main.c58586de.chunk.js"
+    "static/js/main.e6912451.chunk.js"
   ]
 }
