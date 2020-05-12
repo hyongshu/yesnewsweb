@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/yesnewsweb/static/css/main.75883b35.chunk.css",
-    "main.js": "/yesnewsweb/static/js/main.877a4abf.chunk.js",
-    "main.js.map": "/yesnewsweb/static/js/main.877a4abf.chunk.js.map",
+    "main.js": "/yesnewsweb/static/js/main.ede1eaf7.chunk.js",
+    "main.js.map": "/yesnewsweb/static/js/main.ede1eaf7.chunk.js.map",
     "runtime-main.js": "/yesnewsweb/static/js/runtime-main.4146c0e3.js",
     "runtime-main.js.map": "/yesnewsweb/static/js/runtime-main.4146c0e3.js.map",
-    "static/js/2.c012f9ba.chunk.js": "/yesnewsweb/static/js/2.c012f9ba.chunk.js",
-    "static/js/2.c012f9ba.chunk.js.map": "/yesnewsweb/static/js/2.c012f9ba.chunk.js.map",
+    "static/js/2.608f602e.chunk.js": "/yesnewsweb/static/js/2.608f602e.chunk.js",
+    "static/js/2.608f602e.chunk.js.map": "/yesnewsweb/static/js/2.608f602e.chunk.js.map",
     "index.html": "/yesnewsweb/index.html",
-    "precache-manifest.58d1d090f5640ced6bbbdbfa7be4203a.js": "/yesnewsweb/precache-manifest.58d1d090f5640ced6bbbdbfa7be4203a.js",
+    "precache-manifest.b783d761cf9aa3678ac4553eb43ca3e9.js": "/yesnewsweb/precache-manifest.b783d761cf9aa3678ac4553eb43ca3e9.js",
     "service-worker.js": "/yesnewsweb/service-worker.js",
     "static/css/main.75883b35.chunk.css.map": "/yesnewsweb/static/css/main.75883b35.chunk.css.map",
-    "static/js/2.c012f9ba.chunk.js.LICENSE.txt": "/yesnewsweb/static/js/2.c012f9ba.chunk.js.LICENSE.txt"
+    "static/js/2.608f602e.chunk.js.LICENSE.txt": "/yesnewsweb/static/js/2.608f602e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4146c0e3.js",
-    "static/js/2.c012f9ba.chunk.js",
+    "static/js/2.608f602e.chunk.js",
     "static/css/main.75883b35.chunk.css",
-    "static/js/main.877a4abf.chunk.js"
+    "static/js/main.ede1eaf7.chunk.js"
   ]
 }
